@@ -5,8 +5,7 @@
 	}
 }
 
-@media handheld
-{
+@media handheld {
 	.name p img {
 		display: none;
 	}
@@ -15,6 +14,6 @@
 @media screen and (max-width: 450px)
 {
 	#albums article {
-		width: 100%
+		width: 50%
 	}
 }
