@@ -2,28 +2,28 @@
 @import url("quentin.css");
 
 html {
-	font-size: 62.5%;
+    font-size: 62.5%;
 }
 
 @media screen and (max-width: 450px)
 {
-	html {
-		font-size: 33%;
-	}
+    html {
+        font-size: 55%;
+    }
 } 
 
 @media screen and (min-width: 450px) and (max-width: 600px)
 {
-	html {
-		font-size: 45%;
-	}
+    html {
+        font-size: 60%;
+    }
 } 
 
 @media screen and (min-width: 1400px)
 {
-	html {
-		font-size: 70%;
-	}
+    html {
+        font-size: 70%;
+    }
 } 
 
 @font-face {
@@ -65,7 +65,7 @@ header .user {
 }
 
 header .user a {
-    font-size: 13px;
+    font-size: 1.3em;
     color: #89949b;
     padding-top: 5px;
 }
@@ -243,7 +243,3 @@ nav a.top { background: url("../img/icon/top.png") no-repeat 0px; }
 nav a.new { background: url("../img/icon/new.png") no-repeat 0px; }
 nav a.collection { background: url("../img/icon/collection.png") no-repeat 0px; }
 nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
-
-
-
-
