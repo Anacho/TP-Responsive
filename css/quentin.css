@@ -5,7 +5,7 @@
 	}
 }
 
-@media all and (max-width: 450) {
+@media all and (max-width: 450px) {
 	.name p img {
 		display: none;
 	}
